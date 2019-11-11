@@ -1,10 +1,10 @@
-# Table of contents
+## Table of contents
 
 * [Goals](#goals)
 * [Overview](#overview)
 * [Mockup Pages](#mockup-pages)
 
-# Goals 
+## Goals 
 
 textXchange enables students to login to the site and indicate books they would like to buy and books they would like to sell. They must supply the ISBN number (i.e. the unique ID) for each book, enabling the system to match up buyers and sellers. Buyers and sellers can rate each other, enabling users to build up confidence in each other over time. Admins can ban users for inappropriate behavior.. It is implemnted using various technologies including:
 
@@ -13,7 +13,7 @@ textXchange enables students to login to the site and indicate books they would 
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-# Overview
+## Overview
 
 textXchange show be able to provide users in the UH Community with an easy and simple experience when selling or purchasing books. Some concepts that we wish to implement includes:
 
@@ -24,18 +24,18 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * Users are able to search for the books they need
 * Users are are to sort books based on classes that the book is needed in
 
-# Mockup Pages
+## Mockup Pages
 
 Here are template for what our page would look like:
 
-## Landing Page
+### Landing Page
 
 ![](images/landing_page.jpg)
 
-## Sign Up Page
+### Sign Up Page
 
 ![](images/register_page.jpg)
 
-## Sign In Page
+### Sign In Page
 
 ![](images/login.jpg)
