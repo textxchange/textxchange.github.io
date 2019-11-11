@@ -2,7 +2,7 @@
 
 * [Goals](#goal)
 * [Overview](#overview)
-* [Mockup Pages](#mockup pages)
+* [Mockup Pages](#mockup-pages)
 
 ## Goals 
 
