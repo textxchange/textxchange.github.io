@@ -39,3 +39,11 @@ Here are template for what our page would look like:
 ### Sign In Page
 
 ![](images/login.jpg)
+
+### Add Book Page
+
+![](images/add.jpg)
+
+### List Book Page
+
+![](images/list.jpg)
