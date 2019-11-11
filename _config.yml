@@ -1,1 +1,11 @@
-theme: jekyll-theme-architect
+  
+title: textXchange
+description: Textbook exchange service for the UH Community
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/textxchange/textxchange
+gems:
+  - jekyll-mentions
