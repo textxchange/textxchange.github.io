@@ -30,7 +30,20 @@ Here are template for what our page would look like:
 
 ### Landing Page
 
+![](images/landing_page.jpg)
+
 ### Sign Up Page
+
+![](images/register_page.jpg)
 
 ### Sign In Page
 
+![](images/login.jpg)
+
+### Add Book Page
+
+![](images/add.jpg)
+
+### List Book Page
+
+![](images/list.jpg)
