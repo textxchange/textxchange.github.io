@@ -1,12 +1,6 @@
 ## Table of contents
 
 * [Goals](#goal)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 
 ## Goals 
 
@@ -16,3 +10,25 @@ textXchange enables students to login to the site and indicate books they would 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+## Overview
+
+textXchange show be able to provide users in the UH Community with an easy and simple experience when selling or purchasing books. Some concepts that we wish to implement includes:
+
+* A map for users to indicate where they would like to meet for the exchange
+* A rating system to allow users to rate their experience regarding selling or buying
+* Different types of payment systems (Ex. Venmo, PayPal, cash etc.)
+* An admin are able to ban users/scammers for inappropriate behaviors
+* Users are able to search for the books they need
+* Users are are to sort books based on classes that the book is needed in
+
+## Mockup Pages
+
+Here are template for what our page would look like:
+
+### Landing Page
+
+### Sign Up Page
+
+### Sign In Page
+
