@@ -1,6 +1,8 @@
 ## Table of contents
 
 * [Goals](#goal)
+* [Overview](#overview)
+* [Mockup Pages](#mockup pages)
 
 ## Goals 
 
