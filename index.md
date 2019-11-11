@@ -42,7 +42,7 @@ Here are template for what our page would look like:
 
 ### Add Book Page
 
-![](images/add.jpg)
+![](images/add.png)
 
 ### List Book Page
 
