@@ -30,12 +30,12 @@ Here are template for what our page would look like:
 
 ### Landing Page
 
-![](doc/landing_page.jpg)
+![](images/landing_page.jpg)
 
 ### Sign Up Page
 
-![](doc/register_page.jpg)
+![](images/register_page.jpg)
 
 ### Sign In Page
 
-![](doc/login.jpg)
+![](images/login.jpg)
