@@ -23,6 +23,8 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * An admin are able to ban users/scammers for inappropriate behaviors
 * Users are able to search for the books they need
 * Users are are to sort books based on classes that the book is needed in
+* Look up png file of book cover using ISBN number
+* Using amazon api, find original price of the book that is being sold
 
 ## Mockup Pages
 
