@@ -1,3 +1,9 @@
+## Contributors
+* [Jay Ryan Jamorabon](https://jayryanj.github.io/)
+* [Nadine Alcantara](https://nadine-alcantara.github.io/)
+* [Nathan Zenger](https://nzenger.github.io/)
+* [Jeff Wong](https://jeff-yc-wong.github.io/)
+
 ## Table of contents
 
 * [Goals](#goals)
