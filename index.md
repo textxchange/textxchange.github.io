@@ -40,7 +40,7 @@ Here are template for what our page would look like:
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-![](Mockup/Landing.jpg)
+![](Mockup/Landing.png)
 
 The landing page will provide brief descriptions of what a user can do on textXchange, such as search for books, pay for books, and display an exchange map
 
@@ -49,22 +49,22 @@ The landing page will provide brief descriptions of what a user can do on textXc
 Clicking on the Login link, then on the Sign Up, this page is displayed:
 
 
-![](/register_page.jpg)
+![](Mockup/SignUp.png)
 
 ### Sign In Page
 
 Clicking on the Login link, then on the Sign In, this page is displayed:
 
-![](images/login.jpg)
+![](Mockup/SignIn.png)
 
 ### Add Book Page
 
 After loging in, the user may select the Add Book page that would allow the user to add a book. The form would include a variety of input fields, such text fields to specify names and description, and tags to specify the course or major this book qualifies for.
 
-![](images/add.png)
+![](Mockup/AddBook.png)
 
 ### List Book Page
 
 Clicking on the List Books link brings up a page that lists all of the book associated with the logged in user:
 
-![](images/list.jpg)
+![](Mockup/Browse.png)
