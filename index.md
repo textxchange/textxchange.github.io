@@ -65,6 +65,6 @@ After loging in, the user may select the Add Book page that would allow the user
 
 ### Browse Book Page
 
-Clicking on the List Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, seller info, price, and upload date. The logged in user may also filter which books they need with the search option.
+Clicking on the Browse Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, seller info, price, and upload date. The logged in user may also filter which books they need with the search option.
 
 ![](Mockup/Browse.png)
