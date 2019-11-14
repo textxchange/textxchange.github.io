@@ -3,4 +3,8 @@ title: textXchange
 description: Textbook exchange service for the UH Community
 google_analytics:
 show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/textxchange/textXchange
+  is_user_page: false
 theme: jekyll-theme-architect
