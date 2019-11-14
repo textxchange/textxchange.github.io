@@ -40,7 +40,7 @@ Here are template for what our page would look like:
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-![](images/landing_page.jpg)
+![](Mockup/Landing.jpg)
 
 The landing page will provide brief descriptions of what a user can do on textXchange, such as search for books, pay for books, and display an exchange map
 
@@ -49,7 +49,7 @@ The landing page will provide brief descriptions of what a user can do on textXc
 Clicking on the Login link, then on the Sign Up, this page is displayed:
 
 
-![](images/register_page.jpg)
+![](/register_page.jpg)
 
 ### Sign In Page
 
