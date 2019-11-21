@@ -61,11 +61,11 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/signin)
 
 If the user does not have an existing account, they may click on the "Register" link to create an account. This page is displayed:
 
-![](images/signup.png)
+![](images/tx-signup.png)
 
 The user must be a University of Hawaii student, as the input fields are the user's student ID number and campus.
 
-Page link: [Click here](http://textxchange.meteorapp.com/#/signun)
+Page link: [Click here](http://textxchange.meteorapp.com/#/signup)
 
 ### Landing after login
 
