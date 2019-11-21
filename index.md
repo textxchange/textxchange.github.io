@@ -8,7 +8,7 @@
 
 * [Goals](#goals)
 * [Overview](#overview)
-* [Mockup Pages](#mockup-pages)
+* [Project Pages](#project-pages)
 * [Project Board](#project-board)
 
 ## Project Board
@@ -37,39 +37,56 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * Look up png file of book cover using ISBN number
 * Using amazon api, find original price of the book that is being sold
 
-## Mockup Pages
+## Project Pages
 
-Here are template for what our page would look like:
+Here are our current mockup pages for our deployed app.
 
 ### Landing Page
 
-When you retrieve the app at http://localhost:3000, this is what should be displayed:
+![](images/tx-landing.png)
 
-![](Mockup/Landing.png)
+The landing page will provide brief descriptions of what a user can do on textXchange, such as search for books, pay for books, and display an exchange map.
 
-The landing page will provide brief descriptions of what a user can do on textXchange, such as search for books, pay for books, and display an exchange map
-
-### Sign Up Page
-
-Clicking on the Login link, then on the Sign Up, this page is displayed:
-
-
-![](Mockup/SignUp.png)
+Page link: [Click here](http://textxchange.meteorapp.com/#/)
 
 ### Sign In Page
 
-Clicking on the Login link, then on the Sign In, this page is displayed:
+Clicking on the Sign In link on the navigation bar, this page is displayed:
 
-![](Mockup/SignIn.png)
+![](images/tx-signin.png)
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/signin)
+
+### Sign Up Page
+
+If the user does not have an existing account, they may click on the "Register" link to create an account. This page is displayed:
+
+![](images/signup.png)
+
+The user must be a University of Hawaii student, as the input fields are the user's student ID number and campus.
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/signun)
+
+### Landing after login
+
+![](images/tx-profile-landing.png)
+
+After loging in, the navigation bar on the landing page now shows options to sell a book and discover other books on the database
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/)
 
 ### Add Book Page
 
-After loging in, the user may select the Add Book page that would allow the user to add a book. The form would include a variety of input fields, such text fields to specify names and description, and tags to specify the course or major this book qualifies for.
+After loging in, the user may select the Add Book page that would allow the user to add a book. The form would include a variety of input fields, such text fields to specify the book's title, author, year published, ISBN, description, cost, class used, and condition.
 
-![](Mockup/AddBook.png)
+![](images/tx-sellbook.png)
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/add)
 
 ### Browse Book Page
 
-Clicking on the Browse Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, seller info, price, and upload date. The logged in user may also filter which books they need with the search option.
+Clicking on the Browse Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, title, author, description, price, and upload date. The logged in user may also filter which books they need with the search option (will be implemented in a future milestone). In addition, the book cover will be automatically uploaded by fetching the appropriate image from the internet based on the ISBN.
 
-![](Mockup/Browse.png)
+![](images/tx-discover.png)
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
