@@ -11,7 +11,7 @@
 * [Project Pages](#project-pages)
 * [Project Board](#project-board)
 
-## Project Board
+## Project Milestones
 * [Milestone 1](https://github.com/textxchange/textXchange/projects/1)
 * [Milestone 2](https://github.com/textxchange/textXchange/projects/2)
 
