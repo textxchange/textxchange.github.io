@@ -37,6 +37,8 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * Look up png file of book cover using ISBN number
 * Using amazon api, find original price of the book that is being sold
 
+See our GitHub Organization [here](https://github.com/textxchange) and our deployed app on Galaxy [here](http://textxchange.meteorapp.com/#/).
+
 ## Project Pages
 
 Here are our current mockup pages for our deployed app.
