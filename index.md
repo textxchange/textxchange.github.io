@@ -92,3 +92,10 @@ Clicking on the Browse Books link allows the logged in user to browse all the bo
 ![](images/tx-discover.png)
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
+
+### Profile Page
+
+When signed in, clicking on account tab will bring down a dropdown menu with an item call profile, when clicking on the profile menu item, it will bring the user to their profile page showing their information and the books that they are selling.
+
+![](images/profile.png)
+
