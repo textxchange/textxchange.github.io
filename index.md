@@ -9,6 +9,11 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [Mockup Pages](#mockup-pages)
+* [Project Board](#project-board)
+
+## Project Board
+* [Milestone 1](https://github.com/textxchange/textXchange/projects/1)
+* [Milestone 2](https://github.com/textxchange/textXchange/projects/2)
 
 ## Goals 
 
