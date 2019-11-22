@@ -1,19 +1,12 @@
-## Contributors
-* [Jay Ryan Jamorabon](https://jayryanj.github.io/)
-* [Nadine Alcantara](https://nadine-alcantara.github.io/)
-* [Nathan Zenger](https://nzenger.github.io/)
-* [Jeff Wong](https://jeff-yc-wong.github.io/)
-
 ## Table of contents
 
 * [Goals](#goals)
 * [Overview](#overview)
 * [Project Pages](#project-pages)
 * [Project Board](#project-board)
-
-## Project Milestones
-* [Milestone 1](https://github.com/textxchange/textXchange/projects/1)
-* [Milestone 2](https://github.com/textxchange/textXchange/projects/2)
+* Milestones
+  -[Milestone 1](https://github.com/textxchange/textXchange/projects/1)
+  -[Milestone 2](https://github.com/textxchange/textXchange/projects/2)
 
 ## Goals 
 
@@ -98,4 +91,10 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
 When signed in, clicking on account tab will bring down a dropdown menu with an item call profile, when clicking on the profile menu item, it will bring the user to their profile page showing their information and the books that they are selling.
 
 ![](images/profile.png)
+
+## Contributors
+* [Jay Ryan Jamorabon](https://jayryanj.github.io/)
+* [Nadine Alcantara](https://nadine-alcantara.github.io/)
+* [Nathan Zenger](https://nzenger.github.io/)
+* [Jeff Wong](https://jeff-yc-wong.github.io/)
 
