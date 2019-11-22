@@ -4,9 +4,7 @@
 * [Overview](#overview)
 * [Project Pages](#project-pages)
 * [Project Board](#project-board)
-* Milestones
-  -[Milestone 1](https://github.com/textxchange/textXchange/projects/1)
-  -[Milestone 2](https://github.com/textxchange/textXchange/projects/2)
+* Milestones: [M1](https://github.com/textxchange/textXchange/projects/1) [M2](https://github.com/textxchange/textXchange/projects/2)
 
 ## Goals 
 
