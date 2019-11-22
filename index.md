@@ -3,7 +3,6 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [Project Pages](#project-pages)
-* [Project Board](#project-board)
 * Milestones: 
   [M1](https://github.com/textxchange/textXchange/projects/1), 
   [M2](https://github.com/textxchange/textXchange/projects/2)
