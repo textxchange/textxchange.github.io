@@ -4,7 +4,11 @@
 * [Overview](#overview)
 * [Project Pages](#project-pages)
 * [Project Board](#project-board)
-* Milestones: [M1](https://github.com/textxchange/textXchange/projects/1) [M2](https://github.com/textxchange/textXchange/projects/2)
+* Milestones: 
+  [M1](https://github.com/textxchange/textXchange/projects/1), 
+  [M2](https://github.com/textxchange/textXchange/projects/2)
+* [GitHub Organization](https://github.com/textxchange)
+* [Deployed app on Galaxy](http://textxchange.meteorapp.com/#/)
 
 ## Goals 
 
@@ -27,8 +31,6 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * Users are are to sort books based on classes that the book is needed in
 * Look up png file of book cover using ISBN number
 * Using amazon api, find original price of the book that is being sold
-
-See our GitHub Organization [here](https://github.com/textxchange) and our deployed app on Galaxy [here](http://textxchange.meteorapp.com/#/).
 
 ## Project Pages
 
