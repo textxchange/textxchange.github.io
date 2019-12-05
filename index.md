@@ -4,13 +4,16 @@
 * [Overview](#overview)
 * [Project Pages](#project-pages)
 * [Developer Guide](#developer-guide)
-* [Development History](#development-history): 
+* [Development History](#development-history)
+* [Contributors](#contributors)
+
+### Links
 [M1](https://github.com/textxchange/textXchange/projects/1), 
 [M2](https://github.com/textxchange/textXchange/projects/2), 
 [M3](https://github.com/textxchange/textXchange/projects/4)
 * [GitHub Organization](https://github.com/textxchange)
 * [Deployed app on Galaxy](http://textxchange.meteorapp.com/#/)
-* [Contributors](#contributors)
+
 
 ## Goals 
 
