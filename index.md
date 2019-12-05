@@ -26,12 +26,9 @@ textXchange show be able to provide users in the UH Community with an easy and s
 
 * A map for users to indicate where they would like to meet for the exchange
 * A rating system to allow users to rate their experience regarding selling or buying
-* Different types of payment systems (Ex. Venmo, PayPal, cash etc.)
 * An admin are able to ban users/scammers for inappropriate behaviors
-* Users are able to search for the books they need
-* Users are are to sort books based on classes that the book is needed in
+* Users are able to search for books based on classes that the book is needed in
 * Look up png file of book cover using ISBN number
-* Using amazon api, find original price of the book that is being sold
 
 ## Project Pages
 
@@ -91,7 +88,7 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
 
 When signed in, clicking on account tab will bring down a dropdown menu with an item call profile, when clicking on the profile menu item, it will bring the user to their profile page showing their information and the books that they are selling.
 
-![](images/profile.png)
+![](images/tx-profile.png)
 
 ## Contributors
 * [Jay Ryan Jamorabon](https://jayryanj.github.io/)
