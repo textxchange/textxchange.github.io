@@ -8,11 +8,11 @@
 * [Contributors](#contributors)
 
 ### Links
-[M1](https://github.com/textxchange/textXchange/projects/1), 
+* [Deployed app on Galaxy](http://textxchange.meteorapp.com/#/)
+* [GitHub Organization](https://github.com/textxchange)
+* [M1](https://github.com/textxchange/textXchange/projects/1), 
 [M2](https://github.com/textxchange/textXchange/projects/2), 
 [M3](https://github.com/textxchange/textXchange/projects/4)
-* [GitHub Organization](https://github.com/textxchange)
-* [Deployed app on Galaxy](http://textxchange.meteorapp.com/#/)
 
 
 ## Goals 
