@@ -141,7 +141,7 @@ The goal of [Milestone 1](https://github.com/textxchange/textXchange/projects/1)
 
 The goal of [Milestone 2](https://github.com/textxchange/textXchange/projects/2) was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the textXchange application.
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 The goal of [Milestone 3](https://github.com/textxchange/textXchange/projects/4) was to clean up the code base and fix minor UI issues.
 
