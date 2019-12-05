@@ -3,7 +3,8 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [Project Pages](#project-pages)
-* Milestones: 
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history): 
 [M1](https://github.com/textxchange/textXchange/projects/1), 
 [M2](https://github.com/textxchange/textXchange/projects/2), 
 [M3](https://github.com/textxchange/textXchange/projects/4)
@@ -89,6 +90,60 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
 When signed in, clicking on account tab will bring down a dropdown menu with an item call profile, when clicking on the profile menu item, it will bring the user to their profile page showing their information and the books that they are selling.
 
 ![](images/tx-profile.png)
+
+## Developer Guide
+
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks. 
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the textXchange application github page and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+  
+Third, cd into the bowfolios/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
+
+### Application Design
+
+textXchange is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in textXchange.
+
+## Development History
+
+The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+ 
+* Development consists of a sequence of Milestones. 
+* Each Milestone is specified as a set of tasks.  
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete. 
+* Tasks should typically consist of work that can be completed in 2-4 days.  
+* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number. 
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master. 
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of BowFolios.
+
+### Milestone 1: Mockup development
+
+The goal of [Milestone 1](https://github.com/textxchange/textXchange/projects/1) was to create a set of HTML pages providing a mockup of the pages in the system. 
+
+### Milestone 2: Data model development 
+
+The goal of [Milestone 2](https://github.com/textxchange/textXchange/projects/2) was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the textXchange application.
+
+## Milestone 3: Final touches
+
+The goal of [Milestone 3](https://github.com/textxchange/textXchange/projects/4) was to clean up the code base and fix minor UI issues.
 
 ## Contributors
 * [Jay Ryan Jamorabon](https://jayryanj.github.io/)
