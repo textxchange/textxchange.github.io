@@ -2,7 +2,8 @@
 
 * [Goals](#goals)
 * [Overview](#overview)
-* [Project Pages](#project-pages)
+* [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Contributors](#contributors)
@@ -34,9 +35,9 @@ textXchange show be able to provide users in the UH Community with an easy and s
 * Users are able to search for books based on classes that the book is needed in
 * Look up png file of book cover using ISBN number
 
-## Project Pages
+## User Guide
 
-Here are our current mockup pages for our deployed app.
+Here is our currently deployed app.
 
 ### Landing Page
 
@@ -94,6 +95,16 @@ When signed in, clicking on account tab will bring down a dropdown menu with an 
 
 ![](images/tx-profile.png)
 
+## Community Feedback
+
+We have shown our app to several UH Manoa students for community feedback. We allowed them to sign up, set up a profile, browse for books, sell a book, purchase a book, and see how one can "purchase" their own listed book. From this, we have accumulated these responses:
+
+* When writing the book description, it's unclear about what a user should write, whether it's the content description or user experience such as how helpful the book is for their class.
+* Users can add a negative value for selling books; this is a bug.
+*
+*
+*
+
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks. 
@@ -104,7 +115,7 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, visit the textXchange application github page and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
   
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the textXchange/app directory and install libraries with:
 
 ```
 $ meteor npm install
