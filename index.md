@@ -18,7 +18,7 @@
 
 ## Goals 
 
-textXchange enables students to login to the site and indicate books they would like to buy and books they would like to sell. They must supply the ISBN number (i.e. the unique ID) for each book, enabling the system to match up buyers and sellers. Buyers and sellers can rate each other, enabling users to build up confidence in each other over time. Admins can ban users for inappropriate behavior.. It is implemnted using various technologies including:
+TextXchange enables students to login to the site and indicate books they would like to buy and books they would like to sell. They must supply the ISBN number (i.e. the unique ID) for each book, enabling the system to match up buyers and sellers. Buyers and sellers can rate each other, enabling users to build up confidence in each other over time. Admins can ban users for inappropriate behavior.. It is implemnted using various technologies including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -27,7 +27,7 @@ textXchange enables students to login to the site and indicate books they would 
 
 ## Overview
 
-textXchange show be able to provide users in the UH Community with an easy and simple experience when selling or purchasing books. Some concepts that we wish to implement includes:
+TextXchange show be able to provide users in the UH Community with an easy and simple experience when selling or purchasing books. Some concepts that we wish to implement includes:
 
 * A map for users to indicate where they would like to meet for the exchange
 * A rating system to allow users to rate their experience regarding selling or buying
@@ -43,7 +43,7 @@ Here is our currently deployed app.
 
 ![](images/tx-landing.png)
 
-The landing page will provide brief descriptions of what a user can do on textXchange, such as search for books, pay for books, and display an exchange map.
+The landing page will provide brief descriptions of what a user can do on TextXchange, such as search for books, pay for books, and display an exchange map.
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/)
 
@@ -113,7 +113,7 @@ This section provides information of interest to Meteor developers wishing to us
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the textXchange application github page and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+Second, visit the TextXchange application github page and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
   
 Third, cd into the textXchange/app directory and install libraries with:
 
@@ -131,11 +131,11 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ### Application Design
 
-textXchange is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in textXchange.
+TextXchange is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in TextXchange.
 
 ## Development History
 
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+The development process for TextXchange conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
  
 * Development consists of a sequence of Milestones. 
 * Each Milestone is specified as a set of tasks.  
@@ -145,7 +145,7 @@ The development process for BowFolios conformed to [Issue Driven Project Managem
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master. 
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
-The following sections document the development history of BowFolios.
+The following sections document the development history of TextXchange.
 
 ### Milestone 1: Mockup development
 
@@ -153,7 +153,7 @@ The goal of [Milestone 1](https://github.com/textxchange/textXchange/projects/1)
 
 ### Milestone 2: Data model development 
 
-The goal of [Milestone 2](https://github.com/textxchange/textXchange/projects/2) was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the textXchange application.
+The goal of [Milestone 2](https://github.com/textxchange/textXchange/projects/2) was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the TextXchange application.
 
 ### Milestone 3: Final touches
 
