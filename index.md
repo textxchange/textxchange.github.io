@@ -65,13 +65,21 @@ The user must be a University of Hawaii student, as the input fields are the use
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/signup)
 
-### Landing after login
+### Profile Page
 
-![](images/tx-profile-landing.png)
+After signing in, the app will redirect the user to their profile page showing their information and the books that they are selling.
 
-After loging in, the navigation bar on the landing page now shows options to sell a book and discover other books on the database
+![](images/tx-profile.png)
 
-Page link: [Click here](http://textxchange.meteorapp.com/#/)
+The user may also choose to edit their profile page with a new profile picture and updated description.
+
+![](images/tx-profileedit.png)
+
+To edit a book, the user may click on the Edit button to make changes on its various components.
+
+![](images/tx-editbook.png)
+
+Page link: [Click here](http://textxchange.meteorapp.com/#/profile)
 
 ### Add Book Page
 
@@ -89,11 +97,11 @@ Clicking on the Browse Books link allows the logged in user to browse all the bo
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
 
-### Profile Page
+### Buying a Book
 
-When signed in, clicking on account tab will bring down a dropdown menu with an item call profile, when clicking on the profile menu item, it will bring the user to their profile page showing their information and the books that they are selling.
+When the user finds a book of their interest, they may click on the Buy Book button that will redirect them to the form to purchase it. It will display the book's details and a confirmation button to contact the seller via automatic email.
 
-![](images/tx-profile.png)
+![](images/tx-buybook.png)
 
 ## Community Feedback
 
