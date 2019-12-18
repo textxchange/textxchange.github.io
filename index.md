@@ -115,6 +115,9 @@ We have shown our app to several UH Manoa students for community feedback. We al
 
 * When writing the book description, it's unclear about what a user should write, whether it's the content description or user experience such as how helpful the book is for their class.
 * Users can add a negative value for selling books by incrementing down on the down arrow
+* When adding a new book to sell, the page gives an error when typing an ISBN with hyphens even though most ISBNs are displayed with hyphens. The error simply says "ISBN is required" with no context regarding how hyphens aren't allowed in the field.
+* If there's a typo in the ISBN or if it's invalid, a cover picture for a random unrelated book will sometimes be displayed.
+* Parts of the user-interface become messed up on mobile.
 
 ## Developer Guide
 
