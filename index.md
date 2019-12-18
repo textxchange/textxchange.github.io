@@ -61,7 +61,9 @@ If the user does not have an existing account, they may click on the "Register" 
 
 ![](images/tx-signup.png)
 
-The user must be a University of Hawaii student, as the input fields are the user's student ID number and campus.
+After signing up, the user will be givin an email notification, confirming that the account has been created on the app
+
+![](images/tx-signupemail.png)
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/signup)
 
@@ -99,19 +101,20 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/discover)
 
 ### Buying a Book
 
-When the user finds a book of their interest, they may click on the Buy Book button that will redirect them to the form to purchase it. It will display the book's details and a confirmation button to contact the seller via automatic email.
+When the user finds a book of their interest, they may click on the Buy Book button that will redirect them to the form to purchase it. 
 
 ![](images/tx-buybook.png)
+
+It will display the book's details and a confirmation button to contact the seller via automatic email.
+
+![](images/tx-buybookemail.png)
 
 ## Community Feedback
 
 We have shown our app to several UH Manoa students for community feedback. We allowed them to sign up, set up a profile, browse for books, sell a book, purchase a book, and see how one can "purchase" their own listed book. From this, we have accumulated these responses:
 
 * When writing the book description, it's unclear about what a user should write, whether it's the content description or user experience such as how helpful the book is for their class.
-* Users can add a negative value for selling books; this is a bug.
-*
-*
-*
+* Users can add a negative value for selling books by incrementing down on the down arrow
 
 ## Developer Guide
 
