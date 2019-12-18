@@ -43,7 +43,7 @@ Here is our currently deployed app.
 
 ![](images/tx-landing.png)
 
-The landing page will provide brief descriptions of what a user can do on TextXchange, such as search for books, pay for books, and display an exchange map.
+The landing page provides a simple TextXchange overview, as well as a search bar for users who know of what to search for right away. Users may search for books by its title, author, or classes it's used in. After searching, the app will redirect the user to the discover page with the search results
 
 Page link: [Click here](http://textxchange.meteorapp.com/#/)
 
@@ -93,7 +93,7 @@ Page link: [Click here](http://textxchange.meteorapp.com/#/add)
 
 ### Browse Book Page
 
-Clicking on the Browse Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, title, author, description, price, and upload date. The logged in user may also filter which books they need with the search option (will be implemented in a future milestone). In addition, the book cover will be automatically uploaded by fetching the appropriate image from the internet based on the ISBN.
+Clicking on the Browse Books link allows the logged in user to browse all the books listed on the site. Each book displays the book cover, title, author, description, price, and upload date. The user may also filter which books they need with the search options provided on the page. In addition, the book cover will be automatically uploaded by fetching the appropriate image from the internet based on the ISBN.
 
 ![](images/tx-discover.png)
 
